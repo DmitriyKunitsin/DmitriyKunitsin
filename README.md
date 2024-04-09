@@ -23,6 +23,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 ### :man_technologist: About Me :
 
 I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -33,7 +34,7 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 - :zap: In my free time, I study at School 21 through Sberbank.
 
 - :mailbox:How to reach me: kunicind1996@gmail.com
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -49,6 +50,10 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
