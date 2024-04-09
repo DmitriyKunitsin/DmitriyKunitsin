@@ -33,6 +33,8 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 - :zap: In my free time, I study at School 21 through Sberbank.
 
 - :mailbox:How to reach me: kunicind1996@gmail.com
+
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
