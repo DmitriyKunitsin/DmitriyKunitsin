@@ -26,13 +26,13 @@
 ### :man_technologist: About Me :
 
 I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as an engineer and developer, writing C/C++ code for STM32 microcontrollers.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I study at School 21 through Sberbank.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://mail.google.com/mail/u/0/?hl=ru#inbox)
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
