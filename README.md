@@ -32,7 +32,7 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I study at School 21 through Sberbank.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=ru#inbox)
+- :mailbox:How to reach me: kunicind1996@gmail.com
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
