@@ -13,7 +13,7 @@
   </a>
 </div>
 <div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmitriyKunitsin)" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-DmitriyKunitsin&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
   hey there
