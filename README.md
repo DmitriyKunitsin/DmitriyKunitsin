@@ -35,6 +35,10 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 - :mailbox:How to reach me: kunicind1996@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
