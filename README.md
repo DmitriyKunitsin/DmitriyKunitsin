@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  ![](https://komarev.com/ghpvc/?username=DmitriyKunitsin)
+  <img src="https://komarev.com/ghpvc/?username=DmitriyKunitsin)" alt=""/>
   <a href="https://vk.com/id299114176">
     <img src="https://img.shields.io/badge/%D0%9C%D0%BE%D0%B9%20Vk-blue?logo=VK&logoColor=White&style=for-the-badge" alt="vk Badge"/>
     
