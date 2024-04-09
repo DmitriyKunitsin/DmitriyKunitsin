@@ -4,8 +4,8 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/id299114176">
-    <img src="https://img.shields.io/badge/%D0%9C%D0%BE%D0%B9%20Vk-blue?logo=VK&logoColor=White&style=for-the-badge"/>
-    alt="vk Badge"/>
+    <img src="https://img.shields.io/badge/%D0%9C%D0%BE%D0%B9%20Vk-blue?logo=VK&logoColor=White&style=for-the-badge" alt="vk Badge"/>/>
+    
   </a>
   <a href="https://t.me/seabassc">
     <img src="https://img.shields.io/badge/my_Telegramm-blue?logo=telegram&logoColor=White&style=for-the-badge" alt="Telegram Badge"/>
