@@ -55,7 +55,8 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :fire: My Stats :
-
+        
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-DmitriyKunitsin&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
