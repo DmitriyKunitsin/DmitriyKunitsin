@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-DmitriyKunitsin&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hey there
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx1ZXduenZyMzdvaTJ3NHJicnk2YmpzMDh1YXdhN2xsMzVteHdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoXEoE1lA0uSQcF1h/giphy.gif" width="300px" width=600px/>
 </h1>
 
