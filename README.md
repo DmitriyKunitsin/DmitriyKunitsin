@@ -49,7 +49,12 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" class="image-with-white-background"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VSCode_And_VS_Studia" alt="VSCode_And_VS_Studia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  
+  .image-with-white-background {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
 </div>
 
 ---
@@ -62,12 +67,7 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
 
 ---
 
-.image-with-white-background {
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-}
+
 <!--
 **DmitriyKunitsin/DmitriyKunitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
