@@ -42,20 +42,13 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHUB-black?style=plastic&logo=GITHUB&logoColor=white&labelColor=black" title="Git" alt="Git" width="100" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="40" height="40"/>&nbsp;
-  <div class="image-with-white-background"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;</div>
-  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VSCode_And_VS_Studia" alt="VSCode_And_VS_Studia" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-black?style=plastic&logo=MySQL&logoColor=white&labelColor=black" title="MySQL" alt="MySQL" width="100" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-white?style=plastic&logo=sqlite&logoColor=blue&labelColor=white" title="SQlite" alt="SQlite" width="100" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-blue?style=plastic&logo=ubuntu&logoColor=white&labelColor=black" title="Ubuntu" alt="Ubuntu" width="100" height="30" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VSCode_And_VS_Studia" alt="VSCode_And_VS_Studia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  .image-with-white-background {
-    background-color: white;
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-}
 </div>
 
 ---
