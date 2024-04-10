@@ -46,7 +46,8 @@ I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" class="image-with-white-background"/>&nbsp;
+  <div class="image-with-white-background"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;</div>
+  
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VSCode_And_VS_Studia" alt="VSCode_And_VS_Studia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   .image-with-white-background {
