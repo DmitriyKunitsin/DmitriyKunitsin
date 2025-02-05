@@ -26,7 +26,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a С# Developer :joy:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a С# Developer :<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I work as an engineer and developer, specializing in C# programming.
 
 - :seedling: Exploring Technical Content Writing.
