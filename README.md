@@ -26,12 +26,12 @@
 ---
 ### :man_technologist: About Me :
 
-I am a junior Stack Developer :joy:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work as an engineer and developer, writing C/C++ code for STM32 microcontrollers.
+I am a С# Developer :joy:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I work as an engineer and developer, specializing in C# programming.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I study at School 21 through Sberbank.
+- :zap: In my free time, I study at School 21 through Sberbank and pursue a Master's degree in Applied Computer Science.
 
 - :mailbox:How to reach me: kunicind1996@gmail.com
 ---
