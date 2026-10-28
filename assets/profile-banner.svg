@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dmitriy Kunitsin — C# Developer &amp; Engineer</title>
+  <desc id="desc">Dark engineering-themed banner with a turquoise signal trace. Software, hardware, and the connection between them.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0d1726"/>
+      <stop offset="1" stop-color="#142c36"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#26414d" stroke-width="1" opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="48" width="5" height="160" rx="2.5" fill="#64dfc4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="78" y="80" font-size="18" font-weight="600" letter-spacing="4" fill="#64dfc4">SOFTWARE / HARDWARE</text>
+    <text x="75" y="149" font-size="60" font-weight="700" letter-spacing="-1.5" fill="#eef5fc">Dmitriy Kunitsin</text>
+    <text x="78" y="195" font-size="28" fill="#b8cbd9">C# Developer &amp; Engineer</text>
+  </g>
+  <g fill="none" stroke="#64dfc4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="918" y="66" width="142" height="142" rx="18" stroke-width="2" opacity="0.5"/>
+    <path d="M890 98h28m-28 40h28m-28 40h28m142-80h28m-28 40h28m-28 40h28M950 38v28m40-28v28m40-28v28m-80 142v28m40-28v28m40-28v28" stroke-width="2" opacity="0.5"/>
+    <path d="M941 151h20v-40h23v58h23v-40h30" stroke-width="4"/>
+    <path d="M0 263h670l16-10 16 20 16-20 16 10h104l18-30 18 45 18-15h308" stroke-width="2" opacity="0.55"/>
+  </g>
+</svg>
